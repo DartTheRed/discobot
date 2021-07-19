@@ -1,0 +1,46 @@
+{"intents":[
+        {"tag": "encourage",
+        "patterns":[],
+        "responses": ["Cheer up!",
+            "Hang in there!",
+            "You should be like me! Sharp as a dagger! Faster than a hawk. More graceful than- Ah! I tripped. :yum:",
+            "I'm a thief! Let me steal away those problems! :heart:",
+            "This reminds me of that time I saw the best dagger ever, but some dragon was guarding it..."
+            ],
+        "context_set": ""
+        },
+        {"tag": "threat",
+        "patterns":[],
+        "responses": [
+            "Don't make me get my knives out!",
+            "These daggers are for more than making me look cute. :smiling_imp:",
+            "Keep talking like that, and maybe I'll get the mods involved.",
+            "Mods~~ Someone's being mean! :pleading_face:"
+            ],
+        "context_set": ""
+        },
+        {"tag": "signoffs",
+        "patterns":[],
+        "responses":[
+            "Nighty-night!",
+            "Sweet dreams!",
+            "Get a gooood deep sleep, that way you can't hear me steal your stuff...",
+            "Later!",
+            "Talk to you later!",
+            "G'night!"
+            ],
+        "context_set": ""
+        },
+        {"tag": "greetings",
+        "patterns":["hello",
+            "hi",
+            "hey there"],
+        "responses":[
+            "Hey there! o/",
+            "How's everyone?",
+            "Anything exciting happen?"
+            ],
+        "context_set": ""
+        }
+    ]
+}
